@@ -1,5 +1,7 @@
 ## 初始化Git仓库基础指令
 
+`git-init` 旨在帮助第一次使用git的用户熟悉 `git init`、`git config`、`git clone`、`git add`、`git commit`、`git remote`、`git push` 等常用命令的简单用法，下面开始吧。
+
 ##### Git 全局设置
 
 `git config --global user.name "王睿"`
