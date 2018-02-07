@@ -8,7 +8,7 @@
 
 ##### 创建新版本库
 
-`git clone git@172.16.101.190:nihaorz/git-command-study.git`
+`git clone git@172.16.101.190:nihaorz/git-init.git`
 
 `cd git-command-study`
 
@@ -26,7 +26,7 @@
 
 `git init`
 
-`git remote add origin git@172.16.101.190:nihaorz/git-command-study.git`
+`git remote add origin git@172.16.101.190:nihaorz/git-init.git`
 
 `git add .`
 
@@ -40,7 +40,7 @@
 
 `git remote rename origin old-origin`
 
-`git remote add origin git@172.16.101.190:nihaorz/git-command-study.git`
+`git remote add origin git@172.16.101.190:nihaorz/git-init.git`
 
 `git push -u origin --all`
 
